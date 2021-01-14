@@ -14,4 +14,4 @@
 
 **Datasets:** Open data such as pollution and traffic data
 
-**esired skill set:** When applying please highlight any experience around mapping, regression (especially spatial and surface), coding experience (including any coding in the open), any other data science experience you feel relevant.  
+**Desired skill set:** When applying please highlight any experience around mapping, regression (especially spatial and surface), coding experience (including any coding in the open), any other data science experience you feel relevant.  
