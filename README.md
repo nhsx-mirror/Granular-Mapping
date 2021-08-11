@@ -1,3 +1,5 @@
+⚠️ This repository has been deprecated and is now read only. NHSX PhD Internship Projects are now available here - https://github.com/nhsx/nhsx-internship-projects
+
 # Granular Mapping 
 
 **Keywords:** Mapping, spatial regression, surface regressions
